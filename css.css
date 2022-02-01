@@ -1,0 +1,121 @@
+.banner{
+    bottom: 5%;
+    position: absolute;
+    
+}
+
+.tabla td{
+    text-align: left;
+    color: red;
+    font-family: arial;
+    font-size: 22px;
+    color: #A45324;
+    margin-right: 90px;
+}
+
+.html{
+    margin: 0;
+}
+.logo{
+    padding-top: 3%;
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    font-size: 36px;
+    color: #A45324;
+    top: 7px;
+    left: 22px;
+}
+.logo2{
+    padding-top: 339%;
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    font-size: 36px;
+    color: #A45324;
+    top: 7px;
+    left: 145px;
+}
+.t1{
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    font-size: 44px;
+    color: #ffffff;
+    top: 600px;
+    left: 190px;
+}
+.t2{
+   
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    font-size: 55px;
+    color: #ffffff;
+    top: 1460px;
+    left: 870px;
+    text-decoration: none;
+}
+.t3{
+    
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    font-size: 50px;
+    color: #ffffff;
+    top: 2740px;
+    left: 100px;
+    width: 616px;
+    height: 68px;
+}
+.t4{
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    font-size: 44px;
+    color: #ffffff;
+    top: 4057px;
+    left: 900px;
+}
+.menu{
+    padding-top: 5%;
+    position: absolute;
+    font-family: 'Yeseva One', cursive;
+    text-decoration-color: #a45324;
+    color: #A45324;
+    left: 820px;
+    top: 18px;
+    width: 521px;
+}
+.menu a{
+    color: #A45324;
+
+
+
+
+	padding-right: 1%;
+
+
+
+
+
+
+    
+    
+}
+.foto1{
+    padding-top: 53px;
+
+}
+.foto2{
+    padding-top: 195px;
+}
+.foto3{
+    padding-top: 210px;
+}
+.foto4{
+    padding-top: 235px;
+}
+.foto5{
+    padding-top: 235px;
+}
+.tabla{
+    padding-left: 90px;
+
+    position: absolute;
+    bottom: -600%;
+}
